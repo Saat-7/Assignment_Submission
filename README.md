@@ -8,3 +8,5 @@ Assign3_Prob1: Calculates factorial
 Assign3_Prob2: Calculates math functions
 Assign4_Prob1: Exception handling
 Assign4_Prob2: Read write and append file
+Assign5_prob1: Print Student's marks
+Assign5_Prob2: List Slicing
